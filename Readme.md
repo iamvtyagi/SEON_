@@ -79,8 +79,8 @@ VITE_API_URL=http://localhost:8080
 
 1. Clone the repository
 ```bash
-git clone https://github.com/sujal862/SOEN
-cd soen
+git clone https://github.com/iamvtyagi/SEON_.git
+cd soen_
 ```
 
 2. Install Backend Dependencies
