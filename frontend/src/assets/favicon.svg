@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="64"
+  height="64"
+>
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#1E1E2F" />
+
+  <!-- Chat Bubble -->
+  <path
+    d="M18 26C18 20.477 22.477 16 28 16H42C47.523 16 52 20.477 52 26V32C52 37.523 47.523 42 42 42H30L22 50V42H28C22.477 42 18 37.523 18 32V26Z"
+    fill="#FF6E6E"
+  />
+
+  <!-- AI Code Icon -->
+  <path
+    d="M24 22L20 26L24 30"
+    stroke="#6EACFF"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M40 22L44 26L40 30"
+    stroke="#6EACFF"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Highlight Circle -->
+  <circle cx="32" cy="26" r="4" fill="#FFDB6E" />
+</svg>
