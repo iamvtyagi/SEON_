@@ -1,4 +1,4 @@
-# SOEN - Collaborative Development Environment
+# SEON - Collaborative Development Environment
 
 A real-time collaborative development environment with integrated AI assistance, live code execution, and team collaboration features.
 
